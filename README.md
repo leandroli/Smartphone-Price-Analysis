@@ -21,7 +21,7 @@
 
    淘宝详情页图：只有月销量和累计评价
 
-   ![](.\snapshots\README1.jpg)
+   <img src=".\snapshots\README1.jpg" style="zoom:80%;" />
 
 
 
@@ -73,16 +73,16 @@ type,price,sales,shop,title
 
 按照销量，以直方图的形式展示手机型号及其 销量 ，按照销量倒排序。
 
-![](.\snapshots\README2.jpg)
+<img src=".\snapshots\README2.jpg" style="zoom:80%;" />
 
 ### 3.2
 
 用爬取下来的数据制作散点图，横轴为手机价格，纵轴为该价格对应的商家个数。
 
-![](.\snapshots\README3.jpg)
+<img src=".\snapshots\README3.jpg" style="zoom:80%;" />
 
 ### 3.3
 
 找出在两个平台上都有售卖的 5 款手机（找销量较大的），由于两个平台上都有不同的卖家都销售这些手机，价格也不同，需要将这些卖家销售这款手机的价格，做出箱型图，比较不同平台上的价格情况。
 
-![](.\snapshots\README4.jpg)
+<img src=".\snapshots\README4.jpg" style="zoom:80%;" />
